@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1725026809 source:c:\users\ariel colaluci\documents\develop in c\test_redes2024\servidor\servidor\servidor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<Winsock2.h>
+	<time.h>
+

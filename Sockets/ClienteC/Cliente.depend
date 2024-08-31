@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1725114036 source:c:\users\ariel colaluci\documents\develop in c\test_redes2024\cliente\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<Winsock2.h>
+
